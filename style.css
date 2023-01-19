@@ -73,10 +73,8 @@ body .match .result-box {
   gap: 1rem;
   justify-content: center;
 }
-body .match .result-box #your-choice img {
-  border-radius: 50%;
-}
-body .match .result-box #pc-choice img {
+body .match .result-box .choices-img img {
+  width: 8rem;
   border-radius: 50%;
 }
 body .match .result {
@@ -150,6 +148,4 @@ body .modal-container .modal button:hover {
   transition: all 0.5s ease-in-out;
   background-color: #222;
   border: none;
-}
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */

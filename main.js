@@ -1,25 +1,3 @@
-//? not a good idea
-
-// const yourChoice = document.getElementById("your-choice");
-// const rockImage = document.querySelector(".rock");
-// const paperImage = document.querySelector(".paper");
-// const scissorsImage = document.querySelector(".scissors");
-
-// rockImage.addEventListener("click", (w) => {
-//   console.log(w);
-//   yourChoice.innerHTML = `<img src="./assets/tas.png"></img>`;
-// });
-
-// paperImage.addEventListener("click", (w) => {
-//   console.log(w);
-//   yourChoice.innerHTML = `<img src="./assets/kagit.png"></img>`;
-// });
-
-// scissorsImage.addEventListener("click", (w) => {
-//   console.log(w);
-//   yourChoice.innerHTML = `<img src="./assets/makas.png"></img>`;
-// });
-
 const yourChoice = document.getElementById("your-choice");
 const pcChoice = document.getElementById("pc-choice");
 
