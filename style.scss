@@ -76,13 +76,10 @@ body {
       display: flex;
       gap: 1rem;
       justify-content: center;
-      #your-choice {
+
+      .choices-img {
         img {
-          border-radius: 50%;
-        }
-      }
-      #pc-choice {
-        img {
+          width: 8rem;
           border-radius: 50%;
         }
       }
